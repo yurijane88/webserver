@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/thomasjhon888/AerowServer/master/sample.bin
+https://raw.githubusercontent.com/thomasjhon888/AroServer/master/server.bsc
